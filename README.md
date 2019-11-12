@@ -1,3 +1,5 @@
+![Screenshot](docs/clearent_logo.jpg)
+
 = Clearent IDTech VP3300 Audio Jack Configuration =
 
 VP3300 AJ
